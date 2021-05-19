@@ -38,3 +38,4 @@ Library/EditorOnlyScriptingSettings.json filter=lfs diff=lfs merge=lfs -text
 Library/SpriteAtlasDatabase.asset filter=lfs diff=lfs merge=lfs -text
 Library/Style.catalog filter=lfs diff=lfs merge=lfs -text
 Library/TempArtifacts filter=lfs diff=lfs merge=lfs -text
+Library/PlayerDataCache/Android/Data/data.unity3d filter=lfs diff=lfs merge=lfs -text
