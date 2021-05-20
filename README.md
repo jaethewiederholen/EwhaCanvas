@@ -7,7 +7,8 @@
 <br>
 
 ## ⬇ Application Download Link ⬇
-https://drive.google.com/file/d/1cpUEdgC10st_ZeIHd-Dhy36gntO0Y1kt/view?usp=sharing<br><br><br>
+
+https://github.com/jaethewiederholen/EwhaCanvas/blob/master/EwhaCanvas.apk<br><br><br>
 ##  TODO list
 
 ### [전시회 기획 관련 작업]
@@ -46,16 +47,16 @@ https://drive.google.com/file/d/1cpUEdgC10st_ZeIHd-Dhy36gntO0Y1kt/view?usp=shari
 
 <br>
 
-## 프로젝트 branch 정리
+## 프로젝트 repository 정리
 
-#### 1.최종 완성본  branch
-https://github.com/jaethewiederholen/jayjayjay/tree/master
+#### 1.최종 완성본  
+https://github.com/jaethewiederholen/EwhaCanvas
 
-#### 2. 작품 사진 및 설명 모음 branch  
-https://github.com/jaethewiederholen/jayjayjay/tree/lee_final
+#### 2. 작품 사진 및 설명 모음 
+https://github.com/jaethewiederholen/EwhaCanvas/tree/master/Assets/Resources
 
-#### 3.게임시스템 및 AR Object 구현 관련 script branch
-https://github.com/jaethewiederholen/jayjayjay/tree/script
+#### 3.게임시스템 및 AR Object 구현 관련 script 
+https://github.com/jaethewiederholen/EwhaCanvas/tree/master/Assets/Scripts
 <br><br>  
 ## 프로젝트의 목적<br>
 ### 캠퍼스 내에 체험형 야외 AR 미술관을 구현한다. <br>
@@ -73,8 +74,8 @@ https://github.com/jaethewiederholen/jayjayjay/tree/script
 #### 8. 모든 구역에서 조언과 물품을 전부 획득했다면 map에  새롭게 열린 보너스 scene 구역으로 이동<br>
 #### 9. 보너스 scene에서 나타나는 새로운 작품들 즐기기<br><br><br>
 ## 프로젝트 아키텍처
-
-<img src="https://user-images.githubusercontent.com/71870316/118229493-0b89bd80-b4c7-11eb-8f97-4d2440b62226.png" width="570 " height="410"><br><br><br>
+![KakaoTalk_Photo_2021-05-20-11-25-08](https://user-images.githubusercontent.com/71870316/118910493-820f3b00-b95f-11eb-9710-d56f7d48cf6a.jpeg)
+<br><br><br>
 
 ## 관련 연구/서비스/시스템 조사 결과 및 한계점 
 
