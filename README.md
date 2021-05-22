@@ -4,7 +4,7 @@
 
 
 ## ⬇ 유튜브 채널 및 시현영상 Link ⬇  
-<br>
+https://youtu.be/VG1pc__RJrs<br><br><br>
 
 ## ⬇ Application Download Link ⬇
 
