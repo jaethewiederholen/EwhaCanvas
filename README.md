@@ -8,7 +8,7 @@ https://youtu.be/VG1pc__RJrs<br><br><br>
 
 ## ⬇ Application Download Link ⬇
 
-https://github.com/jaethewiederholen/EwhaCanvas/blob/master/EwhaCanvas.apk<br><br><br>
+https://drive.google.com/file/d/1cpUEdgC10st_ZeIHd-Dhy36gntO0Y1kt/view?usp=sharing<br><br><br>
 ##  TODO list
 
 ### [전시회 기획 관련 작업]
