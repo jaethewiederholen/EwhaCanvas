@@ -101,3 +101,6 @@ https://github.com/jaethewiederholen/EwhaCanvas/tree/master/Assets/Scripts
 ▪ https://github.com/Burnsychocoes-dev/OpenCvSharp_FaceDetector/blob/2442593973316d9115f4e1ac460fae92f605999e/OpenCVSharp/Assets/Script/Buttons/RecordButton.cs<br>
 ▪ https://github.com/Burnsychocoes-dev/OpenCvSharp_FaceDetector/blob/2442593973316d9115f4e1ac460fae92f605999e/OpenCVSharp/Assets/Script/Buttons/ChangeSceneOnClickScript.cs<br>
 ▪ https://github.com/Lukasz199312/ClickCraft/blob/5d9af7b738b1f38014663a5905038657b01c4f70/Assets/Scripts/Clicker/ImagePixelBuild.cs<br>
+
+<br><br>
+##### 2020-2021 EWHA CANVAS
